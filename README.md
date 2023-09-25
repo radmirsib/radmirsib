@@ -19,7 +19,7 @@
   </a>
 </div>
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=radmirsib&color=violet"/>
+  <img src="https://komarev.com/ghpvc/?username=radmirsib&color=green"/>
 </div>
 
 ### :man_technologist: About Me :
