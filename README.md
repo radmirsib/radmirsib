@@ -1,4 +1,4 @@
-![Radmir Ishtakbaev Banner](https://github.com/radmirsib/Banner.jpg)
+![Radmir Ishtakbaev Banner](https://github.com/radmirsib/radmirsib/blob/934672fe2f11bb237d58f59616e8b902daca0aae/Banner.jpg)
 
 <h1 align="center">
   Hi, there! 👋
