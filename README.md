@@ -1,4 +1,4 @@
-![Radmir Ishtakbaev Banner](https://github.com/radmirsib/radmirsib/Banner.jpg)
+![Radmir Ishtakbaev Banner](https://github.com/radmirsib/Banner.jpg)
 
 <h1 align="center">
   Hi, there! 👋
@@ -49,8 +49,8 @@
 ### :gear: Github Analytics :
 
 <p align="center">
-  <a href="https://github.com/KirillErokhin/">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kirillerokhin&show_icons=true&theme=dracula"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillerokhin&layout=compact&theme=dracula"/>
+  <a href="https://github.com/radmirsib/">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=radmirsib&show_icons=true&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radmirsib&layout=compact&theme=dracula"/>
   </a>
 </p>
