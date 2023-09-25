@@ -23,7 +23,6 @@
 </div>
 
 ### :man_technologist: About Me :
-**My name is Radmir Ishtakbaev.** 
 **I'm Data Scientist and Researcher. I'm very inspiring to open new ways and opportunities! And I'm really like astronomy and astrophoto 🔭🛰️🌌🌃**
 
 ---
