@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIN-black?style=for-the-badge&logo=Linkedin&logoColor=rgb" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:radmirsib@yandex.ru">
-    <img src="https://img.shields.io/badge/Yandex-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Yandex Badge"/>
+    <img src="https://img.shields.io/badge/Yandex-red?style=for-the-badge&logo=Yandex&logoColor=rgb" alt="Yandex Badge"/>
   </a>
 </div>
 <div id="badges" align="center">
